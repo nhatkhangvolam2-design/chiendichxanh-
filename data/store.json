@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "id": "vol-1793200284197",
+      "fullName": "Hoàng Gia Bảo",
+      "age": 16,
+      "className": "11 Hóa",
+      "phone": "",
+      "rolePreference": "cleanup",
+      "message": "",
+      "registeredAt": "15:11 28/10/26",
+      "checkInStatus": false
+    }
+  ],
+  "campaignStats": {
+    "volunteerCountMode": "auto",
+    "customVolunteerCount": 1,
+    "wasteCollected": "0 kg",
+    "roadCleaned": "0 km",
+    "campaignsCompleted": "0 buổi"
+  },
+  "announcements": [
+    {
+      "id": "ann-001",
+      "title": "Thông báo: Ra quân Chiến dịch \"Chủ Nhật Xanh\" Quanh Khu Vực Trường",
+      "type": "schedule",
+      "date": "Chủ Nhật, ngày 02 tháng 11",
+      "time": "06:30 - 10:30 Sáng",
+      "gatheringLocation": "Cổng chính Trường học (Khu vực sân khấu ngoài trời)",
+      "targetArea": "Trục đường chính trước cổng trường, tuyến phố đi bộ và khu vực công viên đối diện",
+      "equipmentPrepared": [
+        "Găng tay bảo hộ sợi dệt & cao su tái sử dụng",
+        "Kẹp gắp rác inox dài 60cm",
+        "Túi rác sinh học tự hủy 3 màu phân loại",
+        "Cồn sát khuẩn, băng gạc y tế & bình nước mát"
+      ],
+      "reminders": [
+        "Mặc trang phục áo xanh thanh niên hoặc áo đồng phục thể dục của trường",
+        "Đi giày thể thao hoặc giày bít mũi để đảm bảo an toàn khi di chuyển",
+        "Tự trang bị bình nước cá nhân để hạn chế tối đa rác thải nhựa phát sinh",
+        "Tuyệt đối không dùng tay không nhặt mảnh thủy tinh vỡ hoặc vật sắc nhọn"
+      ],
+      "content": "Ban Tổ Chức và Đoàn Trường trân trọng thông báo đến toàn thể học sinh, thầy cô và quý phụ huynh về lịch trình chi tiết buổi ra quân đợt mới. Buổi dọn rác nhằm mục tiêu thu gom toàn bộ túi nilon, chai nhựa, cốc trà sữa và lá cây tồn đọng xung quanh tường rào trường học.",
+      "scheduleTimeline": [
+        {
+          "time": "06:30 - 07:00",
+          "activity": "Tập trung tại cổng trường, điểm danh theo lớp và phát dụng cụ gắp rác, găng tay",
+          "leader": "Thầy Bí thư Đoàn Trường & Đội trưởng Hậu cần"
+        },
+        {
+          "time": "07:00 - 07:15",
+          "activity": "Khởi động, phổ biến quy tắc an toàn và phân công 4 phân đội theo sơ đồ khu vực",
+          "leader": "Ban Tổ Chức"
+        },
+        {
+          "time": "07:15 - 09:30",
+          "activity": "Triển khai thu gom rác dọc tuyến đường, vỉa hè và bãi cỏ xung quanh trường",
+          "leader": "Các Trưởng nhóm phân đội"
+        },
+        {
+          "time": "09:30 - 10:00",
+          "activity": "Tập kết rác tại điểm trạm trung chuyển, phân loại rác tái chế và cân đo khối lượng",
+          "leader": "Tổ Phân Loại Rác Tái Chế"
+        },
+        {
+          "time": "10:00 - 10:30",
+          "activity": "Tổng kết kết quả, chụp ảnh lưu niệm và trao chứng nhận tình nguyện xanh",
+          "leader": "Ban Giám Hiệu & Đại diện Học sinh"
+        }
+      ],
+      "author": "Đoàn Trường & Ban Điều Hành Chiến Dịch",
+      "pinned": true,
+      "createdAt": "2026-10-26"
+    },
+    {
+      "id": "ann-002",
+      "title": "Phát động phong trào \"Mỗi Tuần Một Con Đường Không Rác\"",
+      "type": "announcement",
+      "date": "Thường kỳ Thứ Bảy hàng tuần",
+      "time": "15:30 - 17:00 Chiều",
+      "gatheringLocation": "Cổng sau nhà thi đấu thể thao",
+      "targetArea": "Đoạn ngõ nối từ cổng sau trường ra khu dân cư và trạm xe buýt",
+      "equipmentPrepared": [
+        "Chổi tre",
+        "Xẻng hốt rác",
+        "Thùng phân loại",
+        "Bao tải dứa"
+      ],
+      "reminders": [
+        "Các chi đoàn lớp luân phiên phụ trách theo lịch phân công"
+      ],
+      "content": "Nhằm duy trì thói quen giữ gìn vệ sinh môi trường lâu dài, Đoàn trường phát động phong trào duy trì con đường xanh sạch đẹp mỗi chiều thứ Bảy. Hoan nghênh các cá nhân tự nguyện tham gia.",
+      "author": "Ban Môi Trường Học Đường",
+      "pinned": false,
+      "createdAt": "2026-10-24"
+    }
+  ],
+  "activityPosts": []
+}

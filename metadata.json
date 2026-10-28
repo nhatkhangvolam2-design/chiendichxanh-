@@ -1,0 +1,8 @@
+{
+  "name": "Chiến Dịch Trường Học Xanh",
+  "description": "Chiến dịch tình nguyện học sinh - thanh niên dọn rác làm sạch cảnh quan xung quanh trường học, kết nối cộng đồng, cập nhật lịch trình và bảng tin hoạt động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
